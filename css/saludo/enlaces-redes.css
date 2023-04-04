@@ -1,0 +1,19 @@
+.redes__lista{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 2rem;
+}
+
+.icon-link{
+    margin-top: -3rem;
+    margin-left: 12.5rem;   
+}
+
+
+.texto__redes a{
+    color: white;
+    text-decoration: none;
+    margin-left: 9rem;
+}
+

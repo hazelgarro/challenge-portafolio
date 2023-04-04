@@ -1,0 +1,11 @@
+.background-contacto{
+    background: #E7DCFF;
+    margin-top: 2rem;
+}
+
+.contacto__conjunto{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2rem;
+}

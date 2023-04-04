@@ -1,0 +1,19 @@
+.skills__texto{
+    margin-top: 3rem;
+    color: #FFF500;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.skills__lista{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 2rem;
+}
+
+.logo__formato{
+    width: 150px;
+    height: 200px;
+}

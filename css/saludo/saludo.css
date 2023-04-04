@@ -1,0 +1,18 @@
+.saludo__titulo{
+    color: white;
+    font-weight: 700;
+    font-size: 5rem;
+    margin-left: 9rem;
+}
+
+.saludo__titulo--resaltado{
+    color: #FFF500;
+}
+
+.saludo__descripcion{
+    margin-left: 9rem;
+    margin-top: 1rem;
+    color: white;
+    opacity: 0.8;
+}
+

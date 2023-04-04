@@ -1,0 +1,13 @@
+.header__style{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (min-width: 0) {
+    
+}
+
+@media screen and (min-width: 768px) {
+    
+}

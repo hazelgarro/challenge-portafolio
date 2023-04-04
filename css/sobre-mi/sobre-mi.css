@@ -1,0 +1,15 @@
+.formato__sobre{
+    background: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sobre__texto{
+    margin-left: 9rem;
+    color: #464646;
+}
+
+.sobre__firma{
+    width: 266px;
+    height: 111px;
+}

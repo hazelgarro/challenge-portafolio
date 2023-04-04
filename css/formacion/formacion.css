@@ -1,0 +1,28 @@
+.formacion__formato{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.cards__formacion{
+    margin: 2rem;
+    padding: 0.5rem;
+    border: none;
+}
+
+.texto_formacion{
+    color: #464646;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.background-formacion{
+    background: #FFFFFF;
+    margin-top: 2rem;
+}
+
+.imagen__formacion{
+    width: 250px;
+    height: 275px;
+}

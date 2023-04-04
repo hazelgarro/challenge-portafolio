@@ -1,0 +1,24 @@
+.texto__footer{
+    color: #FFF500;
+    text-align: center;
+}
+
+.btn-enviar{
+    border-color: #4F3A7A;
+    background-color: #4F3A7A;
+    border-radius: 1%;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+
+.btn-enviar:hover{
+    border-color: #ffffff;
+    background-color:#ffffff;
+    color: #4F3A7A;
+    font-weight: 700;
+}
+
+.input__mensaje{
+    height: 6rem;
+}
